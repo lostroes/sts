@@ -1,4 +1,4 @@
-# stslocal testPolice = false
+local testPolice = false
 local npcOn = true
 local sifirPolis = false
 
